@@ -1,16 +1,23 @@
-### Hi there 👋
+Hey 👋, wwz
 
-<!--
-**wouwouz/wouwouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm **Wouwouz**, a **Student**.
 
-Here are some ideas to get you started:
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Personal:**
+
+- 👨🏽‍💻 I’m currently a Student
+- 🌱 I’m currently learning html/css
+- 🤔 My interests are Cyber-Security / Programming
+- 💬 Ask me about anything, I am happy to help;
+
+
+**Languages**
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+**And more to come!**
+
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=wouwouz&show_icons=true&hide_border=true)
