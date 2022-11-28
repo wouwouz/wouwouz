@@ -1,4 +1,4 @@
-Hey 👋, wwz
+Hey 👋
 
 Hi there, I'm **Wouwouz**, a **Student**.
 
