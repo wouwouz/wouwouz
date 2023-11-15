@@ -1,13 +1,13 @@
-# 🐞 - Hello ! I'm Wouwouz
+## Hi there 👋
+- Frog 16yo from France
+- Currently working on JavaScript.
 
-My name is **Wouwouz**, I'm Student, passionate about Cyber-Security.
+---
 
-## 💻 - Languages
-- **HTML5** / **CSS3**
-- **JavaScript** / **NodeJS**
+#### Tools and Software
+[![OS - Windows](https://img.shields.io/badge/OS-WINDOWS-blue?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows/)
+[![Editor - VS Code](https://img.shields.io/badge/Editor-VS%20Code-blue?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![IDE - Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-blueviolet?style=for-the-badge&logo=visual-studio)](https://visualstudio.com/)
 
-## 🔨 - Tools
-
-- **Visual Studio Code**
-- **IntelliJ IDEA**
-- **Pycharm**
+#### Contact and About Me
+[![Discord - yawdev](https://img.shields.io/badge/Discord-frogontopppp-blueviolet?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1167566471493333043)
