@@ -1,6 +1,6 @@
 ## Hi there 👋
 - Frog 16yo from France
-- Currently working on JavaScript.
+- Currently working on JavaScript & C++.
 
 ---
 
